@@ -1,0 +1,13 @@
+bob,2222,1500
+Deposited: $3000.000000
+Withdrew: $1500.000000
+---
+cam,1234,8000
+Deposited: $10000.000000
+Deposited: $500.000000
+Withdrew: $2500.000000
+---
+will,1111,3000
+Deposited: $5000.000000
+Withdrew: $2000.000000
+---
